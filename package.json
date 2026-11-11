@@ -2,9 +2,7 @@
   "name": "prontoclinica-valeria-dias",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
   "scripts": {
-    "start": "node server.mjs",
     "build": "node build.mjs"
   }
 }
