@@ -1,0 +1,10 @@
+{
+  "name": "Prontoclínica Odontológica Valéria Dias",
+  "short_name": "Prontoclínica Valéria Dias",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a2328",
+  "theme_color": "#0a2328",
+  "description": "Clínica odontológica em Recife com atendimento 24 horas."
+}
